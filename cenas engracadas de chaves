@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Cenas Engraçadas do Chaves</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        .video {
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 10px;
+            margin: 10px 0;
+            box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+        }
+        iframe {
+            width: 100%;
+            height: 315px;
+        }
+        .description {
+            margin-top: 5px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Cenas Engraçadas do Chaves</h1>
+
+<div class="video">
+    <h2>Chaves - Cenas Engraçadas Parte 1</h2>
+    <iframe src="https://www.youtube.com/embed/mxRkoQRoTI8" frameborder="0" allowfullscreen></iframe>
+    <div class="description">Nesta cena, Chaves cria situações hilariantes que fazem todos rirem. Não perca!</div>
+</div>
+
+<div class="video">
+    <h2>Chaves - Cenas Engraçadas Parte 2</h2>
+    <iframe src="https://www.youtube.com/embed/ft3ILMmKTyI" frameborder="0" allowfullscreen></iframe>
+    <div class="description">Acompanha mais aventuras e confusões do Chaves e seus amigos, provando que a diversão nunca acaba!</div>
+</div>
+
+</body>
+</html>
